@@ -51,7 +51,7 @@ After that you will answer 21 questions and you will get your ratings!!!
 5) Conclusion
 
 The neural network was trained from scratch for 800 epochs using Mini-batch Gradient Descent (batches of 128) and the Adam Optimization algorithm.
-During training, the Loss started at 0.4181 and successfully converged to 0.3844.
+During training, the Loss started at 0.4181 and successfully converged to 0.3650.
 
 In medical datasets based on self-reported questionnaires, achieving a loss close to 0.00 is not only impossible but also undesirable,
 as it would indicate severe Overfitting (memorizing the training data). Because human health involves inherent randomness and

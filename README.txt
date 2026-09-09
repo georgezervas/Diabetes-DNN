@@ -5,7 +5,7 @@
 
 
 1) General info about the project:
-This project is a custom-built Deep Neural Network in Python that predicts a person's risk of developing diabetes.
+This project is a  Deep Neural Network in Python that predicts a person's risk of developing diabetes.
 It is based on real data from a telephone survey where almost 253,680 people were asked 21 questions about their
 general health and lifestyle. The data was obtained from the 2015 Behavioral Risk Factor Surveillance System (BRFSS),
 which is conducted annually by the U.S. Centers for Disease Control and Prevention (CDC). The model processes answers to
